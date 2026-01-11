@@ -11,8 +11,8 @@
       fill: #0072b1;
       opacity: 0; /* Start invisible */
       transform-origin: center;
-      /* 3 second loop, infinite */
-      animation: circle-sequence 3s ease-in-out infinite;
+      /* 3 second loop, infinite, with a smooth easing */
+      animation: circle-sequence 3s cubic-bezier(0.4, 0.0, 0.2, 1) infinite;
     }
     
     /* Style for the 'in' text */
@@ -27,20 +27,20 @@
       animation: text-sequence 3s ease-in-out infinite;
     }
 
-    /* Animation Timeline for the Circle */
+    /* Animation Timeline for the Circle - MODIFIED FOR CENTER FADE */
     @keyframes circle-sequence {
-      0%   { opacity: 0; transform: scale(0.5); } /* Start hidden and small */
-      15%  { opacity: 1; transform: scale(1); }   /* Fade in rapidly */
-      85%  { opacity: 1; transform: scale(1); }   /* Stay visible long time */
-      100% { opacity: 0; transform: scale(0.5); } /* Fade out at end */
+      0%   { opacity: 0; transform: scale(0); }   /* Start: size 0 at center, invisible */
+      15%  { opacity: 1; transform: scale(1); }   /* Grow rapidly to full size */
+      85%  { opacity: 1; transform: scale(1); }   /* Hold full size */
+      100% { opacity: 0; transform: scale(0); }   /* End: shrink back to size 0 at center */
     }
 
-    /* Animation Timeline for the Text */
+    /* Animation Timeline for the Text (Unchanged) */
     @keyframes text-sequence {
-       0%, 20% { opacity: 0; } /* Wait for circle to appear first */
+       0%, 20% { opacity: 0; } /* Wait for circle to grow first */
        35%     { opacity: 1; } /* Text fades in */
        65%     { opacity: 1; } /* Text holds visible */
-       80%     { opacity: 0; } /* Text fades out before circle */
+       80%     { opacity: 0; } /* Text fades out before circle starts shrinking */
        100%    { opacity: 0; } /* Stay hidden */
     }
   </style>
