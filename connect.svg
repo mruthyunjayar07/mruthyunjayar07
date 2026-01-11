@@ -12,7 +12,7 @@
       opacity: 0; /* Start invisible */
       transform-origin: center;
       /* 3 second loop, infinite, with a smooth easing */
-      animation: circle-sequence 3s cubic-bezier(0.4, 0.0, 0.2, 1) infinite;
+      animation: circle-sequence 5s cubic-bezier(0.4, 0.0, 0.2, 1) infinite;
     }
     
     /* Style for the 'in' text */
