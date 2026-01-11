@@ -1,16 +1,28 @@
-<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
+    .text { fill: white; font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 18px; }
+    .cyan { fill: #00bcd4; }
     .pulse {
       fill: #0072b1;
       animation: pulse-animation 2s infinite;
       transform-origin: center;
     }
     @keyframes pulse-animation {
-      0% { transform: scale(0.8); opacity: 1; }
-      70% { transform: scale(1.1); opacity: 0.7; }
-      100% { transform: scale(0.8); opacity: 1; }
+      0% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.1); opacity: 0.8; }
+      100% { transform: scale(1); opacity: 1; }
     }
   </style>
-  <circle class="pulse" cx="50" cy="50" r="40" />
-  <text x="50" y="58" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold" font-size="24">in</text>
+  
+  <rect x="0" y="20" width="400" height="1" fill="#444" />
+  <rect x="0" y="130" width="400" height="1" fill="#444" />
+  
+  <text x="50%" y="55" text-anchor="middle" class="text">
+    <tspan class="cyan">&lt;/&gt;</tspan> Connect with me <tspan class="cyan">&lt;/&gt;</tspan>
+  </text>
+  
+  <g transform="translate(200, 95)">
+    <circle class="pulse" cx="0" cy="0" r="22" />
+    <text x="0" y="7" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold" font-size="20">in</text>
+  </g>
 </svg>
