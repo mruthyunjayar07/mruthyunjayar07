@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="connect.svg" width="80">
+  </a>
+</p>
 
 <!--
 **mruthyunjayar07/mruthyunjayar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
