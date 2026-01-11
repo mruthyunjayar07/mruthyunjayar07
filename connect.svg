@@ -1,16 +1,47 @@
 <svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
+    /* Static text styles */
     .text { fill: white; font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; font-size: 18px; }
     .cyan { fill: #00bcd4; }
-    .pulse {
+    
+    /* --- NEW ANIMATION STYLES --- */
+    
+    /* Style for the blue circle */
+    .circle-seq {
       fill: #0072b1;
-      animation: pulse-animation 2s infinite;
+      opacity: 0; /* Start invisible */
       transform-origin: center;
+      /* 3 second loop, infinite */
+      animation: circle-sequence 3s ease-in-out infinite;
     }
-    @keyframes pulse-animation {
-      0% { transform: scale(1); opacity: 1; }
-      50% { transform: scale(1.1); opacity: 0.8; }
-      100% { transform: scale(1); opacity: 1; }
+    
+    /* Style for the 'in' text */
+    .text-seq {
+      fill: white;
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+      font-size: 20px;
+      text-anchor: middle;
+      opacity: 0; /* Start invisible */
+      /* 3 second loop, infinite */
+      animation: text-sequence 3s ease-in-out infinite;
+    }
+
+    /* Animation Timeline for the Circle */
+    @keyframes circle-sequence {
+      0%   { opacity: 0; transform: scale(0.5); } /* Start hidden and small */
+      15%  { opacity: 1; transform: scale(1); }   /* Fade in rapidly */
+      85%  { opacity: 1; transform: scale(1); }   /* Stay visible long time */
+      100% { opacity: 0; transform: scale(0.5); } /* Fade out at end */
+    }
+
+    /* Animation Timeline for the Text */
+    @keyframes text-sequence {
+       0%, 20% { opacity: 0; } /* Wait for circle to appear first */
+       35%     { opacity: 1; } /* Text fades in */
+       65%     { opacity: 1; } /* Text holds visible */
+       80%     { opacity: 0; } /* Text fades out before circle */
+       100%    { opacity: 0; } /* Stay hidden */
     }
   </style>
   
@@ -22,7 +53,7 @@
   </text>
   
   <g transform="translate(200, 95)">
-    <circle class="pulse" cx="0" cy="0" r="22" />
-    <text x="0" y="7" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold" font-size="20">in</text>
+    <circle class="circle-seq" cx="0" cy="0" r="22" />
+    <text class="text-seq" x="0" y="7">in</text>
   </g>
 </svg>
