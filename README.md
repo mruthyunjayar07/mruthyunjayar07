@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="in/mruthyunjaya-r-32a78b330">
     <img src="connect.svg" width="80">
   </a>
 </p>
