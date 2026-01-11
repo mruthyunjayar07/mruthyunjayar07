@@ -1,0 +1,16 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .pulse {
+      fill: #0072b1;
+      animation: pulse-animation 2s infinite;
+      transform-origin: center;
+    }
+    @keyframes pulse-animation {
+      0% { transform: scale(0.8); opacity: 1; }
+      70% { transform: scale(1.1); opacity: 0.7; }
+      100% { transform: scale(0.8); opacity: 1; }
+    }
+  </style>
+  <circle class="pulse" cx="50" cy="50" r="40" />
+  <text x="50" y="58" text-anchor="middle" fill="white" font-family="Arial" font-weight="bold" font-size="24">in</text>
+</svg>
