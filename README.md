@@ -12,3 +12,8 @@
   </a>
 </div>
 
+## LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/mruthyunjayar07?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
+
+
