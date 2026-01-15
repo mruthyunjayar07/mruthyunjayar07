@@ -12,6 +12,6 @@
   </a>
 </div>
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=mruthyunjayar&theme=nord)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=mruthyunjayar&theme=dark)
 
 
