@@ -17,6 +17,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mruthyunjayar07&icon=1&color=12)](https://visitcount.itsvg.in)
 
+## LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/mruthyunjayar?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
+
 
 
 
