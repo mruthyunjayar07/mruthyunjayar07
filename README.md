@@ -4,14 +4,6 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </div>
 
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Connect with me <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"></div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/mruthyunjaya-r-32a78b330" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-  </a>
-</div>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MRUTHYUNJAYA R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mruthyunjayar07@gmail.com) 
 
