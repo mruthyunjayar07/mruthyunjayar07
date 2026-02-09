@@ -16,6 +16,15 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mruthyunjayar07&icon=0&color=12)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mruthyunjayar07/mruthyunjayar07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mruthyunjayar07/mruthyunjayar07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mruthyunjayar07/mruthyunjayar07/output/pacman-contribution-graph.svg">
+</picture>
+<img src="https://raw.githubusercontent.com/mruthyunjayar07/mruthyunjayar07/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mruthyunjayar07.mruthyunjayar07&"  />
+</div>
 
 
 
