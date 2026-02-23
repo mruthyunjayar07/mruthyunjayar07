@@ -3,6 +3,7 @@
 <div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </div>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mruthyunjaya-r-32a78b330/) 
