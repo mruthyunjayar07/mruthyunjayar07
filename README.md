@@ -129,13 +129,7 @@ me.say_hi()
 
 ---
 
-## <div align="center">🏆 Trophies</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mruthyunjayar07&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
-
----
 
 ## <div align="center">⚡ LeetCode</div>
 
@@ -145,13 +139,7 @@ me.say_hi()
 
 ---
 
-## <div align="center">📈 Contribution Graph</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mruthyunjayar07&bg_color=0d0d2b&color=a78bfa&line=818cf8&point=c4b5fd&area=true&hide_border=true" width="100%"/>
-</div>
-
----
 
 ## <div align="center">💬 Quote of the Day</div>
 
