@@ -87,20 +87,6 @@ me.say_hi()
 
 ---
 
-## 📋 Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mruthyunjayar07&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mruthyunjayar07&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mruthyunjayar07&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mruthyunjayar07&theme=tokyonight" width="32%"/>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -124,7 +110,6 @@ me.say_hi()
 </div>
 
 ---
-
 
 <div align="center">
   <img src="https://github.com/mruthyunjayar07/mruthyunjayar07/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
