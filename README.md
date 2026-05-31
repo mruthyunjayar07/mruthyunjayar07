@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:050d18,50:0a2a4a,100:050d18&height=280&section=header&text=Mruthyunjaya%20R&fontSize=65&fontColor=00D4FF&fontAlignY=45&desc=〈%20B.Tech%20Student%20•%20Developer%20•%20Problem%20Solver%20〉&descAlignY=65&descColor=00B4D8&animation=blinking)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050d18,50:0a2a4a,100:050d18&height=280&section=header&text=Mruthyunjaya%20R&fontSize=70&fontColor=00D4FF&fontAlignY=42&desc=B.Tech%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descColor=00B4D8&animation=fadeIn)
 
 <br/>
 
@@ -13,48 +13,52 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=const+developer+%3D+new+Mruthyunjaya();+🚀;developer.learn(%22Full+Stack+Web+Dev%22);+🌐;developer.solve(%22DSA+Problems%22);+💡;developer.contribute(%22Open+Source%22);+🤝;console.log(%22Always+growing!%22);+✨" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600"/>
 </div>
 
 ---
 
-## <div align="center">⚡ The Developer Card</div>
+## <div align="center">🧑‍💻 Who Am I?</div>
 
-<div align="center">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   👤  Mruthyunjaya R          📍 India 🇮🇳              ║
-║   🎓  B.Tech Student          💼 Developer               ║
-║   ──────────────────────────────────────────────         ║
-║   💻  Languages : Python • C++ • Java • JavaScript       ║
-║   🌐  Web       : HTML5 • CSS3                           ║
-║   🗄️  Database  : MySQL                                  ║
-║   🛠️  Tools     : Git • GitHub • VS Code • Canva         ║
-║   ──────────────────────────────────────────────         ║
-║   🎯  Goal      : Build. Break. Learn. Repeat.           ║
-║   🌱  Learning  : Full Stack Web Development             ║
-║   ⚡  Fun Fact  : Debugs faster at night 🌙              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<br/>
 
-</div>
+🎓 &nbsp; **B.Tech Engineering Student** from **India 🇮🇳**
+
+💡 &nbsp; Passionate about **DSA**, **Web Development** & **Open Source**
+
+🌱 &nbsp; Currently learning **Full Stack Web Development**
+
+🤝 &nbsp; Looking to collaborate on **Open Source Projects**
+
+💬 &nbsp; Ask me about **C++, Python, Java & DSA**
+
+🎯 &nbsp; 2025 Goal — **Contribute more to Open Source**
+
+⚡ &nbsp; Fun fact — **I debug code faster at night 🌙**
+
+<br/><br/>
+
+<br clear="right"/>
 
 ---
 
-## <div align="center">🛠️ Tech Arsenal</div>
+## <div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
 
-### Languages
+### 〈 Languages 〉
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
 
-### Web & Database
+<br/>
+
+### 〈 Web & Database 〉
 <img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark" />
 
-### Tools & Platforms
+<br/>
+
+### 〈 Tools & Platforms 〉
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,canva&theme=dark" />
 
 </div>
@@ -64,7 +68,7 @@
 ## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mruthyunjayar07&show_icons=true&bg_color=050d18&title_color=00D4FF&text_color=ffffff&border_color=00D4FF&border_radius=15&icon_color=00B4D8&ring_color=00D4FF" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mruthyunjayar07&show_icons=true&bg_color=050d18&title_color=00D4FF&text_color=ffffff&border_color=00D4FF&border_radius=15&icon_color=00B4D8" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=mruthyunjayar07&background=050d18&ring=00D4FF&fire=00B4D8&currStreakLabel=00D4FF&border=00D4FF&sideNums=ffffff&sideLabels=00B4D8&dates=aaaaaa&stroke=00D4FF" width="48%"/>
 </div>
 
@@ -72,6 +76,21 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mruthyunjayar07&layout=compact&bg_color=050d18&title_color=00D4FF&text_color=ffffff&border_color=00D4FF&border_radius=15" width="40%"/>
+</div>
+
+---
+
+## <div align="center">🚀 Featured Projects</div>
+
+<div align="center">
+
+> 📌 **Pin your best repositories on GitHub and they'll show as cards below!**
+> Go to your profile → Click **"Customize your pins"** → Select your best repos
+
+<br/>
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=mruthyunjayar07&repo=mruthyunjayar07&bg_color=050d18&title_color=00D4FF&text_color=ffffff&border_color=00D4FF&border_radius=15&icon_color=00B4D8)](https://github.com/mruthyunjayar07)
+
 </div>
 
 ---
@@ -84,7 +103,7 @@
 
 ---
 
-## <div align="center">💬 Today's Dev Quote</div>
+## <div align="center">💬 Dev Quote of the Day</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
@@ -92,7 +111,7 @@
 
 ---
 
-## <div align="center">🐍 Commit Snake</div>
+## <div align="center">🐍 Contribution Snake</div>
 
 <div align="center">
   <img src="https://github.com/mruthyunjayar07/mruthyunjayar07/blob/output/github-contribution-grid-snake-dark.svg"/>
@@ -106,11 +125,9 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════╗
-║   Thanks for visiting! ⭐ Star a repo!  ║
-╚══════════════════════════════════════════╝
-```
+### 🌊 Thanks for visiting! If you liked it, drop a ⭐ on a repo!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80"/>
 
 </div>
 
