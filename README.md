@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a4e,100:0d0d2b&height=200&section=header&text=Mruthyunjaya%20R&fontSize=50&fontColor=a78bfa&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Space%20Enthusiast&descAlignY=55&descColor=818cf8)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a4e,100:0d0d2b&height=220&section=header&text=Mruthyunjaya%20R&fontSize=55&fontColor=a78bfa&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Space%20Enthusiast&descAlignY=55&descColor=818cf8)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Exploring+the+Universe+of+Code;⭐+Building+Cool+Things+One+Commit+at+a+Time;🌌+Turning+Coffee+into+Code;💫+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🚀+Exploring+the+Universe+of+Code;⭐+Building+Cool+Things+One+Commit+at+a+Time;🌌+Turning+Coffee+into+Code;💫+Always+Learning%2C+Always+Growing;🛸+From+India+to+the+Stars" alt="Typing SVG" />
 
 <br/>
 
@@ -43,6 +43,21 @@ me.say_hi()
 ```
 
 <br clear="right"/>
+
+---
+
+## 🌠 What I'm Up To
+
+<div align="center">
+
+| 🔭 Currently Working On | Sharpening DSA & building projects |
+|:---|:---|
+| 🌱 Currently Learning | Full Stack Web Development |
+| 👯 Looking to Collaborate On | Open Source Projects |
+| 💬 Ask Me About | C++, Python, Java, DSA |
+| ⚡ Fun Fact | I debug code faster at night 🌙 |
+
+</div>
 
 ---
 
@@ -111,10 +126,20 @@ me.say_hi()
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
   <img src="https://github.com/mruthyunjayar07/mruthyunjayar07/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
+
+<div align="center">
+
+### 💜 Thanks for visiting! Drop a ⭐ if you like what you see!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a4e,100:0d0d2b&height=120&section=footer&fontColor=a78bfa)
