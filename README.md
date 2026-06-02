@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 # About Me:
-Second-year B.Tech student with a strong interest in software development, distributed systems, and problem solving.
+Third-year B.Tech student with a strong interest in software development, distributed systems, and problem solving.
 
 Experienced in C++ and Python, currently expanding into Full Stack Web Development, while continuously sharpening problem-solving skills through Data Structures and Algorithms. I enjoy building efficient, scalable systems and tackling complex engineering challenges. Outside of tech, I love exploring new technologies, competitive coding, and pushing my limits every day. 🚀
 
