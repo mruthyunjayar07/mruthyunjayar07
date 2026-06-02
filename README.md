@@ -1,7 +1,17 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mruthyunjaya-r-32a78b330/)
+![Profile Views](https://komarev.com/ghpvc/?username=mruthyunjayar07&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=mruthyunjayar07&label=VISITORS&labelColor=%23000000&countColor=%230e75b6&style=for-the-badge)
+
+</div>
+
+---
+
 # About Me:
-Third-year B.Tech student with a strong interest in software development, distributed systems, and problem solving.
+Second-year B.Tech student with a strong interest in software development, distributed systems, and problem solving.
 
 Experienced in C++ and Python, currently expanding into Full Stack Web Development, while continuously sharpening problem-solving skills through Data Structures and Algorithms. I enjoy building efficient, scalable systems and tackling complex engineering challenges. Outside of tech, I love exploring new technologies, competitive coding, and pushing my limits every day. 🚀
 
@@ -15,6 +25,7 @@ Experienced in C++ and Python, currently expanding into Full Stack Web Developme
 ---
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com/?user=mruthyunjayar07&theme=dark&hide_border=true"/>
 <img src="https://leetcard.jacoblin.cool/mruthyunjayar?border=0&theme=dark&font=Manuale%20Mono&" /><p></p>
 
@@ -24,6 +35,9 @@ Experienced in C++ and Python, currently expanding into Full Stack Web Developme
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mruthyunjayar07&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /></td>
   </tr>
 </table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mruthyunjayar07&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
 </div>
 
 ---
